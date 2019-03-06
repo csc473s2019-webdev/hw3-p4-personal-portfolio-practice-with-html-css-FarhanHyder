@@ -4,6 +4,7 @@ html, body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     position: relative; 
     padding-top: 40px;
+    background-color:yellowgreen;
 }
 
 h1, h2, h3{
@@ -33,7 +34,8 @@ a nav ul li{
 #welcome-section, #projects, #links {
     top: 0;
     height: 100vh;
-    padding-top: 20vh
+    padding-top: 20vh;
+    margin-top: 5%;
 }
 
 
