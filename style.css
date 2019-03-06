@@ -14,13 +14,16 @@ h1,h2{
     text-align: center;
 }
 
+a{
+    color: black;
+}
 
 #navbar{
     position: fixed; 
     top: -18px; 
     left: 0;
     width: 100%;
-    background-color: bisque;
+    background-color:bisque;
 }
 
 #welcome-section, #projects {
@@ -29,9 +32,17 @@ h1,h2{
     padding-top: 20vh
 }
 
+#welcome-section{
+    background-color: yellowgreen;
+}
+
+#projects{
+    background-color: yellow;
+}
+
 #links{
     text-align: center;
-    background-color: yellowgreen;
+    background-color: bisque;
     width: 100%;
 }
 
