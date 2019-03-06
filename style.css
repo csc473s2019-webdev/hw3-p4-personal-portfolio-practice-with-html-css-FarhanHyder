@@ -29,13 +29,20 @@ a nav ul li{
     background-color:bisque;
 }
 
+ul{
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
 
 
 #welcome-section, #projects, #links {
     top: 0;
     height: 100vh;
     padding-top: 20vh;
-    margin-top: 5%;
 }
 
 
