@@ -23,6 +23,20 @@ h1,h2{
     background-color: bisque;
 }
 
+#welcome-section, #projects {
+    top: 0;
+    height: 100vh;
+    padding-top: 20vh
+}
+
+#links{
+    text-align: center;
+    background-color: yellowgreen;
+    width: 100%;
+}
+
+
+
 @media only screen and (max-width: 500px){
     
     html, body{
