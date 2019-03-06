@@ -14,9 +14,11 @@ h1,h2{
     text-align: center;
 }
 
-a{
+a nav ul li{
     color: black;
+    text-decoration: none;
 }
+
 
 #navbar{
     position: fixed; 
@@ -26,11 +28,14 @@ a{
     background-color:bisque;
 }
 
-#welcome-section, #projects {
+
+
+#welcome-section, #projects, #links {
     top: 0;
     height: 100vh;
     padding-top: 20vh
 }
+
 
 #welcome-section{
     background-color: yellowgreen;
